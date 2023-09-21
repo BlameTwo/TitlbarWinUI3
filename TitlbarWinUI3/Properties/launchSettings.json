@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TitlbarWinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TitlbarWinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
